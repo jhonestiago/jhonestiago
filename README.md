@@ -15,7 +15,7 @@
 🌎 Natural do Pará, Brasil.  
   
 🎓 Licenciado em Ciências Biológicas pela Universidade Federal Rural da Amazônia (UFRA).  
-📖 Atualmente, cursando Engenharia Ambiental e Sanitária.  
+📖 Acadêmico de Engenharia Ambiental e Sanitária (UFRA).  
 👨🏻‍💻 Aspirante a Desenvolvedor Back-End.  
 💻 Estudando Python e R para aplicações em Ciência de Dados e Bioinformática.  
 🎯 Buscando aprimorar habilidades e integrar ciência e tecnologia em projetos reais.  
