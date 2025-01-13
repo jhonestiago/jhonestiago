@@ -6,7 +6,7 @@
 
 </div>
 
-# 🐱😺😼 Bem-vindo(a) ao meu GitHub!
+# 😼 Bem-vindo(a) ao meu GitHub!
 <br>
 
 ## ☕ Sobre Mim
