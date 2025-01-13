@@ -30,6 +30,6 @@
 🧩 Desafios de Programação: Soluções para problemas que desenvolvem lógica e eficiência.  
 💡 Prototipação de Software: Ideias para unir ciência, inovação e tecnologia.  
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhonestiago&theme=transparent&bg_color=000000&border_color=006400&show_icons=true&icon_color=32CD32&title_color=32CD32&hide_title=true&text_color=FFFFFF)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jhonestiago&locale=en&theme=transparent&bg_color=000000&border_color=006400&layout=compact&langs_count=5&card_width=320&langs_count=5&show_icons=true&hide_border=false&title_color=32CD32&text_color=FFFFFF)
+## 🔥 Estatísticas do GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhonestiago&show_icons=true&theme=transparent&hide_title=false)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jhonestiago&layout=compact&theme=transparent)
