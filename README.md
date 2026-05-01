@@ -37,5 +37,5 @@ Python • R • Dados • Tecnologia Ambiental
 ---
 
 ## 📊 GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhonestiago&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jhonestiago&layout=compact&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonestiago&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jonestiago&layout=compact&theme=transparent)
