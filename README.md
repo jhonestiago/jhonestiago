@@ -7,10 +7,10 @@
 
 # 👋 Jones Silva
 
-Professor | Biólogo | Dev. Back-End
-Pós-graduando em Ciência de Dados e Inteligência Artificial
-Acad. Engenharia Ambiental e Sanitária (UFRA)
-Python • R • Dados • Tecnologia Ambiental  
+Professor | Biólogo | Dev. Back-End\
+Pós-graduando em Ciência de Dados e Inteligência Artificial\
+Acad. Engenharia Ambiental e Sanitária (UFRA)\
+Python • R • Dados • Tecnologia Ambiental\
 
 ---
 
