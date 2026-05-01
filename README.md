@@ -8,7 +8,7 @@
 # 🚩 Bem-vindo(a) ao meu GitHub!
 
 ## ☕ Sobre Mim
-👋 Olá, eu sou o Jones Silva\
+**👋 Olá, eu sou o Jones Silva**\
 \
 Professor | Biólogo | Back-End em formação\
 Pós-graduando em Ciência de Dados e IA\
