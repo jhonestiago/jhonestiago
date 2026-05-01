@@ -8,18 +8,18 @@
 # 🚩 Bem-vindo(a) ao meu GitHub!
 
 ## ☕ Sobre Mim
-👋 Jones Silva\
+👋 Olá, eu sou o Jones Silva\
 \
-Professor | Biólogo | Back-End em formação\ 
+Professor | Biólogo | Back-End em formação\
 Pós-graduando em Ciência de Dados e IA\
-Acad. Engenharia Ambiental e Sanitária (UFRA)\  
+Acad. Engenharia Ambiental e Sanitária (UFRA)\
 \
 Python • R • Dados • Tecnologia Ambiental  
 
 ---
 
 ## 🚀 Atuação
-💻 Desenvolvimento Back-End e Ciência de Dados  
+💻 Desenvolvimento Back-End e Ciência de Dados\
 🔬 Bioinformática e soluções tecnológicas aplicadas ao meio ambiente  
 
 ---
