@@ -10,15 +10,15 @@
 Professor | Biólogo | Dev. Back-End\
 Pós-graduando em Ciência de Dados e Inteligência Artificial\
 Acad. Engenharia Ambiental e Sanitária (UFRA)\
-Python • R • Dados • Tecnologia Ambiental\
+Python • R • Dados • Tecnologia Ambiental
 
 ---
 
 ## 🚀 Sobre
-🎓 Biólogo (UFRA)  
-📚 Engenharia Ambiental e Sanitária (UFRA)  
-💻 Foco em Back-End e Ciência de Dados  
-🔬 Interesse em Bioinformática e soluções ambientais  
+🎓 Professor e Biólogo (UFRA)\
+📚 Engenharia Ambiental e Sanitária (UFRA)\
+💻 Foco em Back-End e Ciência de Dados\
+🔬 Interesse em Bioinformática e Tecnologia aplicada a soluções ambientais
 
 ---
 
