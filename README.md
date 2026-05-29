@@ -11,7 +11,7 @@
 **👋 Olá, eu sou o Jones Silva**\
 \
 Professor | Biólogo | Back-End em formação\
-Pós-graduando em Ciência de Dados e IA\
+Especialista em Ciência de Dados e IA\
 Acad. Engenharia Ambiental e Sanitária (UFRA)\
 \
 Python • R • Dados • Tecnologia Ambiental  
